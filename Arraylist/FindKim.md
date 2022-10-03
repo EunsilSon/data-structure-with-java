@@ -14,7 +14,7 @@
 import java.util.ArrayList;
 import java.util.Scanner;
 
-public class findKim {
+public class FindKim {
     public static void main(String[] args) {
         ArrayList nameList = new ArrayList<String>();
 

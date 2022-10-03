@@ -15,7 +15,7 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.Scanner;
 
-public class longestNickname {
+public class LongestNickname {
     public static void main(String[] args) {
         List<String> nameList = new ArrayList<String>();
         String inputName;
