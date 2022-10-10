@@ -10,7 +10,7 @@
 # 코드
 
 ```java
-	/**
+   /**
      * 특정 값이 존재하는 지
      * @param value
      * @return
@@ -28,7 +28,7 @@
         return false;
     }
 
-  /**
+   /**
      * 스택의 크기
      * @return
      */
@@ -40,7 +40,7 @@
             count++;
             node = node.next;
         }
-		    return count + 1; // 마지막 노드 포함
+		return count + 1; // 마지막 노드 포함
     }
 ```
 <br><br>
