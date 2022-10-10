@@ -40,7 +40,7 @@
             count++;
             node = node.next;
         }
-		return count + 1; // 마지막 노드 포함
+	return count + 1; // 마지막 노드 포함
     }
 ```
 <br><br>
